@@ -1,0 +1,26 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Java / Maven
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.apt_generated/
+backend/.env
+*.log
+
+# General
+.env
+application-local.properties
+node_modules/
+target/

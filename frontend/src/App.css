@@ -1,0 +1,18 @@
+/*Navbar*/
+
+.navbar-nav a{
+  font-size: 18px;
+}
+
+/*Home*/
+.hero h5{
+  color:rgb(117, 27, 105);
+}
+
+.hero p{
+  color: rgb(233, 244, 148);
+}
+
+p{
+  color:red;
+}
