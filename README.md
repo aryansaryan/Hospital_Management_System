@@ -40,10 +40,6 @@ npm start
 
 Frontend runs on: `http://localhost:3000`
 
-## Notes
-- **Secrets removed:** database credentials are now loaded from environment variables (`DB_URL`, `DB_USERNAME`, `DB_PASSWORD`).
-- API base URL is configured via `frontend/.env` using `REACT_APP_API_URL`.
-
 
 ## Author
 **Aryan Sudhagoni**
