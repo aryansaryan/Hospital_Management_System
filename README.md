@@ -1,6 +1,6 @@
-**Hospital Management System** is a full-stack web application designed to streamline hospital operations by managing doctors, patients, appointments, and authentication in a centralized platform. The system provides secure user registration and login, efficient data handling using a relational database, and a responsive frontend interface for smooth user interaction. Built using **Spring Boot, PostgreSQL, and React**, this project demonstrates real-world backend API development, database integration, and frontend communication while following clean architecture and security best practices.
-
 # Hospital MS (Hospital Management System)
+
+**Hospital Management System** is a full-stack web application designed to streamline hospital operations by managing doctors, patients, appointments, and authentication in a centralized platform. The system provides secure user registration and login, efficient data handling using a relational database, and a responsive frontend interface for smooth user interaction. Built using **Spring Boot, PostgreSQL, and React**, this project demonstrates real-world backend API development, database integration, and frontend communication while following clean architecture and security best practices.
 
 Full‑stack Hospital Management System built with:
 - **Backend:** Spring Boot (Java) + PostgreSQL
